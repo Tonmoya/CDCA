@@ -1,4 +1,4 @@
-# function to calculate homogeneity of the resultant graph. Run this file before running the main CDCA file.
+# Function to calculate homogeneity of the resultant community structure of the graph. Run this file before running the main CDCA file.
 
 homogeneity_D <- function(comm,corr_graph_D,corr_D1){
 
