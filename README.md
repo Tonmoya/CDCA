@@ -1,4 +1,5 @@
 # CDCA
 A centrality-based community detection method for RNA-Seq data
 # Data
-Single cell RNA-Seq data downloaded from https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE184878
+Bulk RNA-Seq data for bipolar disorder downloaded from https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE80336, and https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE53239
+Bulk RNA-Seq data for schizophrenia downloaded from https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE138082, and https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE165604
