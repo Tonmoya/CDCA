@@ -7,4 +7,4 @@ Bulk RNA-Seq data for schizophrenia downloaded from https://www.ncbi.nlm.nih.gov
 # Steps
 1. Compile homogeneity.R
 2. Compile cdca.R
-3. Compile input.R
+3. Run input.R
