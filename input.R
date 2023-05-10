@@ -1,4 +1,4 @@
-
+# Run this file after compiling homogeneity.R and cdca.R
 
 #correlation matrix
 # SZ
