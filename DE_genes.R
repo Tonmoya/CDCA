@@ -9,9 +9,6 @@ library(apeglm)
 library(ggplot2)
 library(tibble)
 library(stringr)
-#library(fossil) # for RI, ARI
-#library(mclust) # ARI
-#library(aricode)
 library(bayesbio)
 library(NMI)
 
