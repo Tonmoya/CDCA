@@ -18,7 +18,7 @@ setwd("DE_genes/")    # set a working directory
 data <- read.csv(file = "DATASETS/GSE138082_SZ_csv.csv", stringsAsFactors = FALSE)    #using dataset GSE138082
 dim(data)  # 20255 genes x  78 samples, 1 genename column
 
-outfolder = "SZ_1/"
+outfolder = "SZ/"           # outfolder = "BD/" for bipolar disorder datasets
 
 #pre-processing the data--------
 geneNames=data[,1]
