@@ -5,6 +5,7 @@ Bulk RNA-Seq data for bipolar disorder downloaded from https://www.ncbi.nlm.nih.
 Bulk RNA-Seq data for schizophrenia downloaded from https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE138082, and https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE165604
 
 # Steps
-1. Compile homogeneity.R
-2. Compile cdca.R
-3. Run input.R
+1. Run DE_genes.R to get DE genes for a dataset.
+2. Compile homogeneity.R
+3. Compile cdca.R
+4. Run input.R, which takes the list of DE genes found from Step 1 as input.
